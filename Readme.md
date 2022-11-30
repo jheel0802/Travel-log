@@ -32,3 +32,10 @@ The blue pin indicates that the user is not active or anonymous.
 
 Once the date about a certain place is logged in by a user, it shows the name of the user who logged in the data and also when the data was logged in.
 
+Tech Stack Used : MongoDB, Express, React, NodeJS
+
+Future Scope: If worked more on the website it will allow the users to add youtube links/ travel vlongs links.
+Also JPEG, JPG and PNG files that is images will be uploaded.
+This will save time of the users who would view the reviews and ratings here on the website and then go back to google for images and to youtube for videos.
+
+Authors: Jheel Gala, Keyur Shah, Saraunsh Jadhav
