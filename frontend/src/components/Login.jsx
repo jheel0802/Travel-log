@@ -30,7 +30,7 @@ export default function Login({setShowLogin, myStorage, setCurrentUser}) {
   return (
     <div className="loginContainer">
       <div className="logo">
-        <Room /> BQTPin
+        <Room /> Login
       </div>
       <form onSubmit={handleSubmit}>
         <input type="text" placeholder="username" ref={nameRef}/>
